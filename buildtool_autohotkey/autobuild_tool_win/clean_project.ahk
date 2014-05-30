@@ -1,0 +1,1 @@
+Run clean_project.bat
